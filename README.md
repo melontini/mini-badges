@@ -2,7 +2,7 @@
 
 **Based on the [devins-badges](https://github.com/intergrav/devins-badges) and [Connector Badges](https://github.com/Sinytra/.github/tree/main/badges/connector) Figma templates.**
 
-[![Follow @melontini on Mastodon!](https://github.com/constellation-mc/.github/assets/104443436/b035b259-444c-43a3-9f02-1879710d084d)](https://mstdn.social/@melontini)
+[![Follow @melontini on Mastodon!](https://raw.githubusercontent.com/melontini/mini-badges/main/personal/mastodon-melontini.svg)](https://mstdn.social/@melontini)
 
 This repo contains extremely minimalist personal badges of the https://shields.io/ size variety.
 
