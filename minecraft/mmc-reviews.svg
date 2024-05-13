@@ -4,7 +4,7 @@
 <g filter="url(#filter0_d_2003_2)">
 <g clip-path="url(#clip1_2003_2)">
 <g clip-path="url(#clip2_2003_2)">
-<path d="M13.5 2L10.9501 6.99902H6.49507L5 8.7213L8.81825 11.8719L8.83398 16.5327L10.2517 18L13.5 15.414L16.747 18L18.166 16.5327L18.1817 11.8719L22 8.7213L20.5036 6.99902H16.0499L13.5 2ZM13.5 5.5174L15.0383 8.53268H15.0396H18.9142L19.2313 8.89821L18.1162 9.81919L16.5779 11.0888L16.4482 11.1954V11.2085L16.4469 11.5857L16.443 13.1128L16.4377 14.64L16.4351 15.1564L16.1311 15.4725L15.0855 14.64H15.0422V14.6049L15.0396 14.6036L13.5026 13.3795L13.5013 13.3782H13.5L11.9617 14.6023L11.9604 14.6036V14.64H11.9145L10.8689 15.4725L10.5649 15.1564L10.5623 14.64L10.557 13.1128L10.5531 11.5857L10.5518 11.1954L10.4221 11.0888L8.88378 9.81919L7.7687 8.89821L8.0858 8.53268H8.88378H11.9617L12.3194 7.83285L13.5 5.5174Z" fill="white"/>
+<path d="M13.5 2.5L10.9501 7.49902H6.49507L5 9.2213L8.81825 12.3719L8.83398 17.0327L10.2517 18.5L13.5 15.914L16.747 18.5L18.166 17.0327L18.1817 12.3719L22 9.2213L20.5036 7.49902H16.0499L13.5 2.5ZM13.5 6.0174L15.0383 9.03268H15.0396H18.9142L19.2313 9.39821L18.1162 10.3192L16.5779 11.5888L16.4482 11.6954V11.7085L16.4469 12.0857L16.443 13.6128L16.4377 15.14L16.4351 15.6564L16.1311 15.9725L15.0855 15.14H15.0422V15.1049L15.0396 15.1036L13.5026 13.8795L13.5013 13.8782H13.5L11.9617 15.1023L11.9604 15.1036V15.14H11.9145L10.8689 15.9725L10.5649 15.6564L10.5623 15.14L10.557 13.6128L10.5531 12.0857L10.5518 11.6954L10.4221 11.5888L8.88378 10.3192L7.7687 9.39821L8.0858 9.03268H8.88378H11.9617L12.3194 8.33285L13.5 6.0174Z" fill="white"/>
 </g>
 </g>
 </g>
@@ -15,7 +15,7 @@
 </g>
 <rect x="0.6" y="0.6" width="167.8" height="19.8" rx="4.4" stroke="url(#paint0_linear_2003_2)" stroke-opacity="0.88" stroke-width="1.2"/>
 <defs>
-<filter id="filter0_d_2003_2" x="-0.600282" y="-3.60028" width="28.2006" height="28.2006" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_2003_2" x="-0.600282" y="-3.10028" width="28.2006" height="27.2006" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
@@ -43,10 +43,10 @@
 <rect width="169" height="21" rx="5" fill="white"/>
 </clipPath>
 <clipPath id="clip1_2003_2">
-<rect width="17" height="17" fill="white" transform="translate(5 2)"/>
+<rect width="17" height="16" fill="white" transform="translate(5 2.5)"/>
 </clipPath>
 <clipPath id="clip2_2003_2">
-<rect width="17" height="16" fill="white" transform="translate(5 2)"/>
+<rect width="17" height="16" fill="white" transform="translate(5 2.5)"/>
 </clipPath>
 </defs>
 </svg>
