@@ -9,6 +9,27 @@ Generic Fediverse:
 Bluesky:
 ![Follow on Bluesky](https://raw.githubusercontent.com/melontini/mini-badges/main/social/bluesky_follow.svg)
 
+Reddit:
+![Reddit on Reddit](https://raw.githubusercontent.com/melontini/mini-badges/main/social/reddit-on-reddit.svg)
+![Also on Reddit](https://raw.githubusercontent.com/melontini/mini-badges/main/social/reddit.svg)
+
+### Version Control (Source Code)
+
+GitHub:
+![Check out on GitHub](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/check-out-on-github.svg)
+![Contribute on GitHub](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/contribute-on-github.svg)
+![Fork on GitHub](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/fork-on-github.svg)
+
+GitLab:
+![Check out on GitLab](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/check-out-on-gitlab.svg)
+![Contribute on GitLab](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/contribute-on-gitlab.svg)
+![Fork on GitLab](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/fork-on-gitlab.svg)
+
+Codeberg:
+![Check out on Codeberg](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/check-out-on-codeberg.svg)
+![Contribute on Codeberg](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/contribute-on-codeberg.svg)
+![Fork on Codeberg](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/fork-on-codeberg.svg)
+
 ### Licenses:
 
 MIT: 
