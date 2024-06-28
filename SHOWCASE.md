@@ -28,8 +28,8 @@ PeerTube:
 ![Watch on PeerTube](https://raw.githubusercontent.com/melontini/mini-badges/main/social/peertube-watch.svg)
 
 Youtube:
-![Follow on PeerTube](https://raw.githubusercontent.com/melontini/mini-badges/main/social/peertube-follow.svg)
-![Watch on PeerTube](https://raw.githubusercontent.com/melontini/mini-badges/main/social/peertube-watch.svg)
+![Follow on YouTube](https://raw.githubusercontent.com/melontini/mini-badges/main/social/youtube-follow.svg)
+![Watch on YouTube](https://raw.githubusercontent.com/melontini/mini-badges/main/social/youtube-watch.svg)
 
 ### Version Control (Source Code)
 
