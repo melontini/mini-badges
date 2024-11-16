@@ -3,77 +3,80 @@
 #### Microblogging
 
 Fediverse: 
-![Follow on the Fediverse](https://raw.githubusercontent.com/melontini/mini-badges/main/social/fediverse_follow.svg)
-![Follow on Mastodon](https://raw.githubusercontent.com/melontini/mini-badges/main/social/mastodon_follow.svg)
-![Follow on Misskey](https://raw.githubusercontent.com/melontini/mini-badges/main/social/misskey-follow.svg)
-![Follow on Pixelfed](https://raw.githubusercontent.com/melontini/mini-badges/main/social/pixelfed-follow.svg)
+![Follow on the Fediverse](/social/fediverse/follow.svg)
+![Follow on Mastodon](/social/mastodon/follow.svg)
+![Follow on Misskey](/social/misskey/follow.svg)
+![Follow on Pixelfed](/social/pixelfed/follow.svg)
 
 Bluesky:
-![Follow on Bluesky](https://raw.githubusercontent.com/melontini/mini-badges/main/social/bluesky_follow.svg)
+![Follow on Bluesky](/social/bluesky/follow.svg)
 
 #### Link Aggregators
 
 Lemmy:
-![Lemmy on Lemmy](https://raw.githubusercontent.com/melontini/mini-badges/main/social/lemmy-on-lemmy.svg)
-![Also on Lemmy](https://raw.githubusercontent.com/melontini/mini-badges/main/social/lemmy.svg)
+![Lemmy on Lemmy](/social/lemmy/lemmy.svg)
+![Also on Lemmy](/social/lemmy/also.svg)
 
 Reddit:
-![Reddit on Reddit](https://raw.githubusercontent.com/melontini/mini-badges/main/social/reddit-on-reddit.svg)
-![Also on Reddit](https://raw.githubusercontent.com/melontini/mini-badges/main/social/reddit.svg)
+![Reddit on Reddit](/social/reddit/reddit.svg)
+![Also on Reddit](/social/reddit/also.svg)
 
 #### Video Streaming
 
 PeerTube:
-![Follow on PeerTube](https://raw.githubusercontent.com/melontini/mini-badges/main/social/peertube-follow.svg)
-![Watch on PeerTube](https://raw.githubusercontent.com/melontini/mini-badges/main/social/peertube-watch.svg)
+![Follow on PeerTube](/social/peertube/follow.svg)
+![Watch on PeerTube](/social/peertube/watch.svg)
 
 Youtube:
-![Follow on YouTube](https://raw.githubusercontent.com/melontini/mini-badges/main/social/youtube-follow.svg)
-![Watch on YouTube](https://raw.githubusercontent.com/melontini/mini-badges/main/social/youtube-watch.svg)
+![Follow on YouTube](/social/youtube/follow.svg)
+![Watch on YouTube](/social/youtube/watch.svg)
 
 ### Version Control (Source Code)
 
 GitHub:
-![Check out on GitHub](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/check-out-on-github.svg)
-![Contribute on GitHub](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/contribute-on-github.svg)
-![Fork on GitHub](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/fork-on-github.svg)
+![Check out on GitHub](/vcs/github/check-out.svg)
+![Contribute on GitHub](/vcs/github/contribute.svg)
+![Fork on GitHub](/vcs/github/fork.svg)
 
 GitLab:
-![Check out on GitLab](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/check-out-on-gitlab.svg)
-![Contribute on GitLab](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/contribute-on-gitlab.svg)
-![Fork on GitLab](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/fork-on-gitlab.svg)
+![Check out on GitLab](/vcs/gitlab/check-out.svg)
+![Contribute on GitLab](/vcs/gitlab/contribute.svg)
+![Fork on GitLab](/vcs/gitlab/fork.svg)
 
 Codeberg:
-![Check out on Codeberg](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/check-out-on-codeberg.svg)
-![Contribute on Codeberg](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/contribute-on-codeberg.svg)
-![Fork on Codeberg](https://raw.githubusercontent.com/melontini/mini-badges/main/vcs/fork-on-codeberg.svg)
+![Check out on Codeberg](/vcs/codeberg/check-out.svg)
+![Contribute on Codeberg](/vcs/codeberg/contribute.svg)
+![Fork on Codeberg](/vcs/codeberg/fork.svg)
 
 ### Licenses
 
 MIT: 
-![License MIT](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/MIT.svg)
+![License MIT](/licenses/mit/mit.svg)
 
 Creative Commons: 
-![License CC BY-4.0](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/cc/CC-BY-4.0.svg)
-![License CC BY-NC-4.0](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/cc/CC-BY-NC-4.0.svg)
-![License CC BY-NC-ND-4.0](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/cc/CC-BY-NC-ND-4.0.svg)
-![License CC BY-4.0](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/cc/CC-BY-NC-SA-4.0.svg)
-![License CC BY-4.0](https://raw.githubusercontent.com/melontini/mini-badges/main/licenses/cc/CC-BY-SA-4.0.svg)
+![License CC BY-4.0](/licenses/cc/cc-by-4.0.svg)
+![License CC BY-NC-4.0](/licenses/cc/cc-by-nc-4.0.svg)
+![License CC BY-NC-ND-4.0](/licenses/cc/cc-by-nc-nd-4.0.svg)
+![License CC BY-NC-SA-4.0](/licenses/cc/cc-by-nc-sa-4.0.svg)
+![License CC BY-ND-4.0](/licenses/cc/cc-by-nd-4.0.svg)
+![License CC BY-SA-4.0](/licenses/cc/cc-by-sa-4.0.svg)
 
 ### Minecraft
 
 Modrinth: 
-![Available on Modrinth](https://raw.githubusercontent.com/melontini/mini-badges/main/minecraft/modrinth.svg)
+![Available on Modrinth](/minecraft/modrinth/available.svg)
 
 CurseForge: 
-![Available on CurseForge](https://raw.githubusercontent.com/melontini/mini-badges/main/minecraft/curseforge.svg)
+![Available on CurseForge](/minecraft/curseforge/available.svg)
 
 MMC Reviews: 
-![Rate on MMC Reviews](https://raw.githubusercontent.com/melontini/mini-badges/main/minecraft/mmc-reviews.svg)
+![Rate on MMC Reviews](/minecraft/mmc-reviews/rate.svg)
 
 ### Personal
 
-![Follow @melontini](https://raw.githubusercontent.com/melontini/mini-badges/main/personal/mastodon-melontini.svg)
-![Follow @melontini.me](https://raw.githubusercontent.com/melontini/mini-badges/main/personal/bluesky-melontini.svg)
+![Follow @melontini](/personal/mastodon-follow.svg)
+![Follow @melontini.me](/personal/bluesky-follow.svg)
 
-![Terrible](https://raw.githubusercontent.com/melontini/mini-badges/main/personal/terrible.svg)
+![Terrible](/personal/terrible.svg)
+
+![Figma Balls](/personal/figma-balls.svg)
