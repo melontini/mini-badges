@@ -48,6 +48,23 @@ Codeberg:
 ![Contribute on Codeberg](/vcs/codeberg/contribute.svg)
 ![Fork on Codeberg](/vcs/codeberg/fork.svg)
 
+### Software Stores
+
+F-Droid:
+![Get it from F-Droid](/software-stores/f-droid/get-from.svg)
+
+FlatHub:
+![Get it from FlatHub](/software-stores/flathub/get-from.svg)
+
+Google Play:
+![Get it from F-Droid](/software-stores/google-play/get-from.svg)
+
+Microsoft:
+![Get it from F-Droid](/software-stores/microsoft/get-from.svg)
+
+Snap Store:
+![Get it from the Snap Store](/software-stores/snap-store/get-from.svg)
+
 ### Licenses
 
 MIT: 
