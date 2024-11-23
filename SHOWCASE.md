@@ -78,6 +78,20 @@ Creative Commons:
 ![License CC BY-ND-4.0](/licenses/cc/cc-by-nd-4.0.svg)
 ![License CC BY-SA-4.0](/licenses/cc/cc-by-sa-4.0.svg)
 
+### Web Dev
+
+Astro:
+![Built with Astro](/webdev/astro/built-with.svg)
+
+Bun:
+![Built with Bun](/webdev/bun/built-with.svg)
+
+Svelte:
+![Built with Svelte](/webdev/svelte/built-with.svg)
+
+Tailwind:
+![Built with Tailwind](/webdev/tailwind/built-with.svg)
+
 ### Minecraft
 
 Modrinth: 
